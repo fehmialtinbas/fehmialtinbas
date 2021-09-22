@@ -20,8 +20,9 @@
 
 <a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"><img align="left" alt="Fehmi's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
 
----
+
 ###
+---
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
