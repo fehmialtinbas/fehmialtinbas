@@ -22,22 +22,17 @@
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- ✨ I’m currently learning everyting as I can!
-
-
-
-
-
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![fehmialtinbas's github stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmialtinbas&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fehmialtinbas&theme=dark)](https://git.io/streak-stats)
 
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+- ✨ I’m currently learning everyting as I can!
+
+
 ### Contact
 
 
 <a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"><img align="left" alt="Fehmi's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
-
-
-
