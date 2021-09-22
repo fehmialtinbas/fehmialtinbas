@@ -7,7 +7,7 @@
 
 
 
-- ✨ I’m currently learning Vue and Spring Framework
+- ✨ I’m currently learning everyting as I can!
 
 
 
