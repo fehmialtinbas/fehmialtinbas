@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MustafaPicakci/MustafaPicakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="300" height="320"/>
-
-
 
 - ✨ I’m currently learning everyting as I can!
 
@@ -13,13 +7,6 @@
 
 
 ![fehmialtinbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas)
-
-
-
-### Contact
-
-<img align="left" alt="Fehmi's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank">LinkedIn</a>
 
 
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
@@ -91,29 +78,4 @@ Sunday       91 commits     ██████░░░░░░░░░░░�
 
 ⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.34 % as on ⏰ 21-Sep-2021
 
----
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Javascript Clean Code Tips & Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets (Part - 2)](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
-- [Why you can't name a file "CON" in Windows?](https://apoorvtyagi.tech/why-you-cant-name-a-file-con-in-windows)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
