@@ -12,7 +12,7 @@
 
 
 
-![fehmialtinbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas)
+![Fehmi Altınbaş's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas)
 
 
 
