@@ -1,8 +1,6 @@
 
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"><img href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fehmialtinbas" height="30" width="30" /></a>&nbsp;
-</p>
+
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
@@ -29,3 +27,8 @@
 ![fehmialtinbas's github stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmialtinbas&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fehmialtinbas&theme=dark)](https://git.io/streak-stats)
+
+### Contact
+
+<img align="left" alt="Fehmi's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank">LinkedIn</a>
