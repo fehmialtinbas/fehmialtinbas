@@ -24,37 +24,6 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-🌆 Daytime    111 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌃 Evening    172 commits    ████████████░░░░░░░░░░░░░   48.18% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
-Wednesday    62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
-Saturday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Sunday       91 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.34 % as on ⏰ 21-Sep-2021
-
-
+![fehmialtinbas's github stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmialtinbas&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fehmialtinbas&theme=dark)](https://git.io/streak-stats)
