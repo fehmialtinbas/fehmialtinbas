@@ -28,9 +28,3 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - ✨ I’m currently learning everyting as I can!
-
-
-### Contact
-
-
-<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"></a>
