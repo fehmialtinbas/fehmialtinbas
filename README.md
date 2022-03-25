@@ -33,4 +33,4 @@
 ### Contact
 
 
-<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"><img align="left" alt="Fehmi's LinkdeIN" width="50px" height="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
+<a href="https://www.linkedin.com/in/mustafa-fehmi-alt%C4%B1nba%C5%9F-16b5561b1/" target="_blank"></a>
