@@ -15,11 +15,6 @@
 ---
 
 
-
-
-
-
-
 My Github Stats:
 
 ![fehmialtinbas's github stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
@@ -29,5 +24,5 @@ My Github Stats:
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
-About Me:
-- ✨ I’m currently learning everyting as I can!
+### Contact
+<a href="https://www.linkedin.com/in/tugayipek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
