@@ -17,7 +17,7 @@
 My Github Stats:
 
 ![fehmialtinbas's github stats](https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fehmialtinbas&theme=dark)](https://git.io/streak-stats)
+
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
