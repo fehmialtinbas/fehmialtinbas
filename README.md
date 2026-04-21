@@ -34,14 +34,6 @@
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
 </p>
 
----
-
-## 🙋 Hakkımda
-
-Ölçeklenebilir web uygulamaları geliştirme konusunda **5+ yıl deneyime** sahip Fullstack Software Developer'ım.
-Java, Spring Boot, Node.js ve modern frontend frameworkleri konusunda uzmanım.
-Temiz, sürdürülebilir kod yazmaya ve iş değeri üretmeye odaklanıyorum.
-
 - 🏢 **Phexum A.Ş.** — Fullstack Software Developer *(2022)*
 
 
@@ -51,10 +43,10 @@ Temiz, sürdürülebilir kod yazmaya ve iş değeri üretmeye odaklanıyorum.
 
 | Proje | Teknolojiler | Açıklama |
 |---|---|---|
-| ERP Enhancements | Java Spring Boot, Angular, Oracle | Oyak Erdemir iç ERP modülleri |
+| ERP Enhancements | Java Spring Boot, Angular, Oracle | ERP modülleri |
 | EdTech Platform | NestJS, PostgreSQL, Redis, RabbitMQ, MongoDB | ELK Stack entegrasyonu & Elastic APM |
 | Logistics Payment Tool | TypeScript, ReactJS, PostgreSQL, Python | Fatura işleme ve ödeme optimizasyonu |
-| Airport Tracking | Java Spring Boot, MS SQL | İstanbul Sabiha Gökçen operasyonel araçlar |
+| Airport Tracking | Java Spring Boot, MS SQL | Airport operasyonel araçlar |
 | AminoAcid App | Node.js, Vue.js, MongoDB | NoSQL tabanlı iç uygulama |
 
 ---
