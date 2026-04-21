@@ -1,24 +1,78 @@
-###
----
+<h1 align="center">Merhaba, ben Fehmi 👋</h1>
+
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+  <b>Software Developer · Data Engineer · Zonguldak, TR 🇹🇷</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
 
+## 🙋 Hakkımda
 
+- 🔧 Üretim (çelik/slab) sistemlerinde **Oracle veritabanı** ve veri mühendisliği
+- ⚡ Karmaşık SQL sorgularında **performans optimizasyonu**, index stratejisi ve materialized view mimarisi
+- 🐍 **Python** ile otomasyon, web scraping (Playwright, BeautifulSoup, Scrapy) ve veri işleme
+- 🤖 **Claude Code CLI** ile AI destekli geliştirme akışları
+- 📐 **Clean Code** prensipleri ve önbellekleme mimarileri üzerine araştırma yapıyorum
+- 🏭 Cross-schema Oracle ortamlarında (KT, SATIS, EBSISDEV) çok sistemli sorgular
 
+---
 
+## 🛠️ Teknoloji Yığını
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+**Veritabanları**
+```
+Oracle DB    ██████████  ★★★★★
+PL/SQL       ████████░░  ★★★★☆
+SQL Tuning   ██████████  ★★★★★
+```
 
+**Diller & Araçlar**
+```
+Python       ████████░░  ★★★★☆
+Java         ██████░░░░  ★★★☆☆
+IntelliJ     ████████░░  ★★★★☆
+```
 
-### Contact
-<a href="https://www.linkedin.com/in/fehmialtinbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+---
+
+## 🔥 Aktif Çalışma Konuları
+
+- `Oracle Materialized Views` — karmaşık raporlama sorgularını önbellekleme
+- `CTE Optimizasyonu` — 30–40+ JOIN içeren sorguları yeniden yapılandırma
+- `Composite Index Stratejisi` — `HAT_KODU`, `YM_STATU`, `YARIMAMUL_TIPI` üzerine
+- `Claude Code CLI` — IntelliJ IDEA ile entegre AI destekli kodlama
+- `Python Scraping` — statik ve JS-render siteler için araç geliştirme
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fehmialtinbas&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehmialtinbas&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📬 İletişim
+
+<p align="center">
+  <a href="https://github.com/fehmialtinbas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i><br/>
+  <b>— Robert C. Martin</b>
+</p>
