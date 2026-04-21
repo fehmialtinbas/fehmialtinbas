@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Fehmi 👋</h1>
 
 <p align="center">
-  <b>Software Developer · Data Engineer · Zonguldak, TR 🇹🇷</b>
+  <b>Software Developer · Data Engineer · TR 🇹🇷</b>
 </p>
 
 <p align="center">
@@ -14,44 +14,6 @@
 
 ---
 
-## 🙋 Hakkımda
-
-- 🔧 Üretim (çelik/slab) sistemlerinde **Oracle veritabanı** ve veri mühendisliği
-- ⚡ Karmaşık SQL sorgularında **performans optimizasyonu**, index stratejisi ve materialized view mimarisi
-- 🐍 **Python** ile otomasyon, web scraping (Playwright, BeautifulSoup, Scrapy) ve veri işleme
-- 🤖 **Claude Code CLI** ile AI destekli geliştirme akışları
-- 📐 **Clean Code** prensipleri ve önbellekleme mimarileri üzerine araştırma yapıyorum
-- 🏭 Cross-schema Oracle ortamlarında (KT, SATIS, EBSISDEV) çok sistemli sorgular
-
----
-
-## 🛠️ Teknoloji Yığını
-
-**Veritabanları**
-```
-Oracle DB    ██████████  ★★★★★
-PL/SQL       ████████░░  ★★★★☆
-SQL Tuning   ██████████  ★★★★★
-```
-
-**Diller & Araçlar**
-```
-Python       ████████░░  ★★★★☆
-Java         ██████░░░░  ★★★☆☆
-IntelliJ     ████████░░  ★★★★☆
-```
-
----
-
-## 🔥 Aktif Çalışma Konuları
-
-- `Oracle Materialized Views` — karmaşık raporlama sorgularını önbellekleme
-- `CTE Optimizasyonu` — 30–40+ JOIN içeren sorguları yeniden yapılandırma
-- `Composite Index Stratejisi` — `HAT_KODU`, `YM_STATU`, `YARIMAMUL_TIPI` üzerine
-- `Claude Code CLI` — IntelliJ IDEA ile entegre AI destekli kodlama
-- `Python Scraping` — statik ve JS-render siteler için araç geliştirme
-
----
 
 ## 📊 GitHub İstatistikleri
 
