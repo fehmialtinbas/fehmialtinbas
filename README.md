@@ -31,7 +31,7 @@ NestJS ile mikroservisler, React ve Vue ile arayüzler yazdım.
 | | Proje | Teknolojiler | Ne yapıyor |
 |:-:|---|---|---|
 | 🏭 | **ERP Modülleri** | Java · Spring Boot · Angular · Oracle | Üretim planlama, takip ve kalite süreçleri için ERP modülleri |
-| 🎓 | **EdTech Platform** | NestJS · PostgreSQL · Redis · RabbitMQ · MongoDB | Mikroservis altyapısı, ELK Stack entegrasyonu ve Elastic APM ile gözlemlenebilirlik |
+| 🎓 | **EdTech Platform** | NestJS · PostgreSQL · Redis · RabbitMQ · MongoDB | Mikroservis altyapısı, ELK Stack entegrasyonu ve Elastic APM ile gözlemlenebilirlik · [yazısı](https://medium.com/@mfehmialtinbas/how-to-use-elastic-stack-to-monitor-your-node-js-applications-1ed5c5e7eceb) |
 | 🚚 | **Logistics Payment Tool** | TypeScript · React · PostgreSQL · Python | Fatura işleme ve ödeme optimizasyonu |
 | ✈️ | **Airport Tracking** | Java · Spring Boot · MS SQL | Havalimanı operasyonları için iç araçlar |
 | 🧬 | **AminoAcid App** | Node.js · Vue.js · MongoDB | NoSQL tabanlı iç uygulama |
@@ -64,6 +64,11 @@ Node.js + TypeScript servisini Docker Compose ile tek komutta ayağa kaldıran b
 </tr>
 </table>
 
+## ✍️ Yazılar
+
+- 📝 **[How to Use Elastic Stack to Monitor Your Node.js Applications](https://medium.com/@mfehmialtinbas/how-to-use-elastic-stack-to-monitor-your-node-js-applications-1ed5c5e7eceb)**  
+  NestJS uygulamasına Elastic APM, Filebeat, Logstash ve Kibana ile izleme kurulumu · *Medium, Temmuz 2025*
+
 ## 📬 İletişim
 
 <p align="center">
@@ -72,6 +77,9 @@ Node.js + TypeScript servisini Docker Compose ile tek komutta ayağa kaldıran b
   </a>
   <a href="mailto:mfehmialtinbas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mfehmialtinbas-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26"/>
+  </a>
+  <a href="https://medium.com/@mfehmialtinbas">
+    <img src="https://img.shields.io/badge/Medium-mfehmialtinbas-9ece6a?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1b26"/>
   </a>
 </p>
 
