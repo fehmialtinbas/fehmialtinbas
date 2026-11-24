@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/📍-Türkiye-9ece6a?style=flat-square&labelColor=1a1b26"/>
 <img src="https://img.shields.io/badge/💬-Türkçe%20·%20English-ff9e64?style=flat-square&labelColor=1a1b26"/>
 
+<br/><br/>
+
+🔥 **[fehmialtinbas.github.io](https://fehmialtinbas.github.io)**: kariyerimi 3D bir haddehane olarak gez
+
 </div>
 
 ## 👋 Hakkımda
@@ -72,6 +76,9 @@ Node.js + TypeScript servisini Docker Compose ile tek komutta ayağa kaldıran b
 ## 📬 İletişim
 
 <p align="center">
+  <a href="https://fehmialtinbas.github.io">
+    <img src="https://img.shields.io/badge/Website-fehmialtinbas.github.io-ff9e64?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b26"/>
+  </a>
   <a href="https://github.com/fehmialtinbas">
     <img src="https://img.shields.io/badge/GitHub-fehmialtinbas-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26"/>
   </a>
