@@ -1,64 +1,77 @@
-<h1 align="center">Merhaba, ben Fehmi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Developer · TR 🇹🇷</b>
-</p>
+<img src="assets/terminal.svg" width="100%" alt="fehmi@dev:~$ whoami — Fehmi · Full-stack Software Developer @ Phexum · Türkiye"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Phexum-Full--stack%20Developer-7aa2f7?style=flat-square&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/2022'den-beri-bb9af7?style=flat-square&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/📍-Türkiye-9ece6a?style=flat-square&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/💬-Türkçe%20·%20English-ff9e64?style=flat-square&labelColor=1a1b26"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-</p>
+## 👋 Hakkımda
 
-- 🏢 **Phexum A.Ş.** — Fullstack Software Developer *(2022)*
+Merhaba, ben **Fehmi**. 2022'den beri **Phexum**'da full-stack geliştiriciyim. Günlerim çoğunlukla
+Java / Spring Boot servisleri, Angular ekranları ve Oracle sorguları arasında geçiyor; öncesinde
+NestJS ile mikroservisler, React ve Vue ile arayüzler yazdım.
 
+- 🏭 **Şu an:** kurumsal bir ERP'nin üretim odaklı modülleri — Spring Boot, Angular, Oracle
+- 🤖 **Merak ettiğim:** AI ile geliştirme — Claude Code, MCP sunucuları, multi-agent akışlar
+- 🎮 **Boş zamanlarda:** World of Warcraft addon'u yazıyorum → [**Hamal**](https://github.com/fehmialtinbas/Hamal)
+- 💬 **Konuşalım:** backend mimarisi, Spring Boot, NestJS ya da veritabanı performansı
 
----
+## 🧰 Teknolojiler
 
-## 🚀 Üzerinde Çalıştığım Projeler
+<img src="assets/stack.svg" width="100%" alt="Java, TypeScript, JavaScript, Python, Lua · Spring Boot, Node.js, NestJS, RabbitMQ, Elasticsearch · Angular, React, Vue.js · Oracle, PostgreSQL, MySQL, MongoDB, Redis · Docker, Git, GitHub Actions · IntelliJ IDEA, VS Code, Postman, Claude Code"/>
 
-| Proje | Teknolojiler | Açıklama |
-|---|---|---|
-| ERP Enhancements | Java Spring Boot, Angular, Oracle | ERP modülleri |
-| EdTech Platform | NestJS, PostgreSQL, Redis, RabbitMQ, MongoDB | ELK Stack entegrasyonu & Elastic APM |
-| Logistics Payment Tool | TypeScript, ReactJS, PostgreSQL, Python | Fatura işleme ve ödeme optimizasyonu |
-| Airport Tracking | Java Spring Boot, MS SQL | Airport operasyonel araçlar |
-| AminoAcid App | Node.js, Vue.js, MongoDB | NoSQL tabanlı iç uygulama |
+## 🚀 Çalıştığım Projeler
 
----
+| | Proje | Teknolojiler | Ne yapıyor |
+|:-:|---|---|---|
+| 🏭 | **ERP Modülleri** | Java · Spring Boot · Angular · Oracle | Üretim planlama, takip ve kalite süreçleri için ERP modülleri |
+| 🎓 | **EdTech Platform** | NestJS · PostgreSQL · Redis · RabbitMQ · MongoDB | Mikroservis altyapısı, ELK Stack entegrasyonu ve Elastic APM ile gözlemlenebilirlik |
+| 🚚 | **Logistics Payment Tool** | TypeScript · React · PostgreSQL · Python | Fatura işleme ve ödeme optimizasyonu |
+| ✈️ | **Airport Tracking** | Java · Spring Boot · MS SQL | Havalimanı operasyonları için iç araçlar |
+| 🧬 | **AminoAcid App** | Node.js · Vue.js · MongoDB | NoSQL tabanlı iç uygulama |
+
+## 🛠️ Açık Kaynak
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎒 [Hamal](https://github.com/fehmialtinbas/Hamal)
+
+*Hamal: başkasının yükünü taşıyan.* WoW: Forever için bir addon: posta kutusunda banka
+karakterinin adını yazarsın, çantandaki ona ait her şeyi bulur ve tek tıkla 12'şer eşyalık
+postalarla yollar. Kütüphane yok, bağımlılık yok; sahte bir oyun istemcisine karşı 120+ test.
+
+`Lua` · `GitHub Actions` · `luacheck`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [ts_node_js_docker](https://github.com/fehmialtinbas/ts_node_js_docker)
+
+Node.js + TypeScript servisini Docker Compose ile tek komutta ayağa kaldıran başlangıç
+şablonu. Hazır imajı Docker Hub'da da var.
+
+`TypeScript` · `Node.js` · `Docker`
+
+</td>
+</tr>
+</table>
 
 ## 📬 İletişim
 
 <p align="center">
   <a href="https://github.com/fehmialtinbas">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-fehmialtinbas-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26"/>
   </a>
   <a href="mailto:mfehmialtinbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-mfehmialtinbas-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26"/>
   </a>
 </p>
 
@@ -66,5 +79,5 @@
 
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i><br/>
-  <b>— Robert C. Martin</b>
+  <sub><b>— Robert C. Martin</b></sub>
 </p>

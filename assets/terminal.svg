@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="322" viewBox="0 0 860 322" role="img" aria-label="Terminal: whoami — Fehmi, Full-stack Software Developer @ Phexum">
+  <title>fehmi@dev — whoami</title>
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'DejaVu Sans Mono',monospace;font-size:15px;white-space:pre}
+    .ap{animation:ap .01s linear both}
+    .up{animation:up .35s ease-out both}
+    .va{animation:va .01s linear both}
+    .blink{animation:bl 1.05s step-end infinite}
+    @keyframes ap{from{opacity:0}to{opacity:1}}
+    @keyframes va{from{opacity:1}to{opacity:0}}
+    @keyframes up{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+    @keyframes bl{0%,100%{opacity:1}50%{opacity:0}}
+    @keyframes ty0{to{transform:translateX(54px)}}
+    .ty0{animation:ty0 0.51s steps(6,end) 0.70s both}
+    @keyframes ty1{to{transform:translateX(108px)}}
+    .ty1{animation:ty1 1.02s steps(12,end) 1.96s both}
+    @keyframes ty2{to{transform:translateX(153px)}}
+    .ty2{animation:ty2 1.45s steps(17,end) 4.03s both}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.cover,.va{display:none}}
+  </style>
+
+  <rect x="0.5" y="0.5" width="859" height="321" rx="12" fill="#1a1b26" stroke="#292e42"/>
+  <path d="M12.5 0.5 H847.5 A12 12 0 0 1 859.5 12.5 V40 H0.5 V12.5 A12 12 0 0 1 12.5 0.5 Z" fill="#16161e"/>
+  <line x1="0.5" y1="40" x2="859.5" y2="40" stroke="#292e42"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <text x="430.0" y="25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#565f89">fehmi@dev: ~ — zsh</text>
+  <g class="ap" style="animation-delay:0.40s"><text x="28" y="80" textLength="81" lengthAdjust="spacingAndGlyphs" fill="#9ece6a" font-weight="700">fehmi@dev</text><text x="109" y="80" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">:</text><text x="118" y="80" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">~</text><text x="127" y="80" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">$</text><text x="145" y="80" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">whoami</text><g class="ty0"><rect class="cover" x="145" y="64" width="65" height="22" fill="#1a1b26"/><g class="va" style="animation-delay:1.51s"><rect class="blink" x="145" y="67" width="9" height="17" fill="#c0caf5"/></g></g></g>
+  <g class="up" style="animation-delay:1.51s"><text x="46" y="106" textLength="45" lengthAdjust="spacingAndGlyphs" fill="#bb9af7" font-weight="700">Fehmi</text><text x="100" y="106" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#565f89">·</text><text x="118" y="106" textLength="261" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">Full-stack Software Developer</text><text x="388" y="106" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#565f89">@</text><text x="406" y="106" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#ff9e64" font-weight="700">Phexum</text><text x="469" y="106" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#565f89">·</text><text x="487" y="106" textLength="63" lengthAdjust="spacingAndGlyphs" fill="#a9b1d6">Türkiye</text></g>
+  <g class="ap" style="animation-delay:1.66s"><text x="28" y="132" textLength="81" lengthAdjust="spacingAndGlyphs" fill="#9ece6a" font-weight="700">fehmi@dev</text><text x="109" y="132" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">:</text><text x="118" y="132" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">~</text><text x="127" y="132" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">$</text><text x="145" y="132" textLength="108" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">cat odak.txt</text><g class="ty1"><rect class="cover" x="145" y="116" width="119" height="22" fill="#1a1b26"/><g class="va" style="animation-delay:3.28s"><rect class="blink" x="145" y="119" width="9" height="17" fill="#c0caf5"/></g></g></g>
+  <g class="up" style="animation-delay:3.28s"><text x="46" y="158" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7dcfff">▸</text><text x="64" y="158" textLength="108" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">Kurumsal ERP</text><text x="244" y="158" textLength="333" lengthAdjust="spacingAndGlyphs" fill="#a9b1d6">Java · Spring Boot · Angular · Oracle</text></g>
+  <g class="up" style="animation-delay:3.43s"><text x="46" y="184" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7dcfff">▸</text><text x="64" y="184" textLength="162" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">Backend servisleri</text><text x="244" y="184" textLength="387" lengthAdjust="spacingAndGlyphs" fill="#a9b1d6">NestJS · TypeScript · PostgreSQL · RabbitMQ</text></g>
+  <g class="up" style="animation-delay:3.58s"><text x="46" y="210" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7dcfff">▸</text><text x="64" y="210" textLength="153" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">AI ile geliştirme</text><text x="244" y="210" textLength="351" lengthAdjust="spacingAndGlyphs" fill="#a9b1d6">Claude Code · MCP · multi-agent akışlar</text></g>
+  <g class="ap" style="animation-delay:3.73s"><text x="28" y="236" textLength="81" lengthAdjust="spacingAndGlyphs" fill="#9ece6a" font-weight="700">fehmi@dev</text><text x="109" y="236" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">:</text><text x="118" y="236" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">~</text><text x="127" y="236" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">$</text><text x="145" y="236" textLength="153" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">ls ~/yan-projeler</text><g class="ty2"><rect class="cover" x="145" y="220" width="164" height="22" fill="#1a1b26"/><g class="va" style="animation-delay:5.77s"><rect class="blink" x="145" y="223" width="9" height="17" fill="#c0caf5"/></g></g></g>
+  <g class="up" style="animation-delay:5.77s"><text x="46" y="262" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#7dcfff" font-weight="700">Hamal/</text><text x="118" y="262" textLength="135" lengthAdjust="spacingAndGlyphs" fill="#565f89">WoW addon · Lua</text><text x="316" y="262" textLength="162" lengthAdjust="spacingAndGlyphs" fill="#7dcfff" font-weight="700">ts_node_js_docker/</text><text x="496" y="262" textLength="162" lengthAdjust="spacingAndGlyphs" fill="#565f89">Node · TS · Docker</text></g>
+  <g class="ap" style="animation-delay:6.38s"><text x="28" y="288" textLength="81" lengthAdjust="spacingAndGlyphs" fill="#9ece6a" font-weight="700">fehmi@dev</text><text x="109" y="288" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">:</text><text x="118" y="288" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#7aa2f7" font-weight="700">~</text><text x="127" y="288" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#c0caf5">$</text><rect class="blink" x="145" y="275" width="9" height="17" fill="#c0caf5"/></g>
+</svg>
